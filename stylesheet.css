@@ -95,8 +95,8 @@ header {
 .logo {
   width: 60px;
   /*margin: 0 20px;*/
-  margin-top: 20px;
-  margin-bottom: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .header-left {
@@ -199,6 +199,7 @@ header {
 
 footer img {
   width: 60px;
+  float: left;
 }
 
 footer p {
