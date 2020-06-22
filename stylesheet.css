@@ -94,8 +94,9 @@ header {
 
 .logo {
   width: 60px;
-  margin: 0 20px;
-  /*margin-top: 20px;*/
+  /*margin: 0 20px;*/
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 .header-left {
