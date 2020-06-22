@@ -24,12 +24,11 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://raw.githubusercontent.com/OranjeRialto/KelompokE62/master/background-top.jpg);
+  background-image: url(https://raw.githubusercontent.com/OranjeRialto/KelompokE62/master/background-top2.jpg);
   background-size: cover;
   background-position: center center;
   color: black;
   text-align: center;
-  opacity: 0.5;
 }
 
 .top-wrapper h1 {
@@ -86,7 +85,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(1, 2, 3, 0.9);
+  background-color: rgba(34, 49, 52, 0.9);
   position :fixed;
   top: 0;
   z-index: 10;
