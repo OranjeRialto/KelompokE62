@@ -57,6 +57,13 @@ a {
   /*background-color: #239b76;*/
   background-color: rgba(0, 230, 118,1.0);
   font-weight: bold;
+  box-shadow: 0 4px rgba(46, 125, 50,1.0)
+}
+
+.signup:active {
+  position: relative;
+  top: 4px;
+  box-shadow: none;
 }
 
 .facebook {
@@ -143,7 +150,7 @@ header {
 }
 
 .heading {
-  padding-top: 80px;
+  padding-top: 40px;
   padding-bottom: 50px;
   color: #5f5d60;
 }
