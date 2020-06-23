@@ -54,7 +54,9 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  /*background-color: #239b76;*/
+  background-color: rgba(0, 230, 118,1.0);
+  font-weight: bold;
 }
 
 .facebook {
@@ -86,7 +88,8 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  /*background-color: rgba(34, 49, 52, 0.9);*/
+  background-color: rgba(62, 39, 35,0.8);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -149,6 +152,12 @@ header {
   font-weight: normal;
 }
 
+.heading img {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
+
 .lesson {
   float: left;
   width: 25%;
@@ -186,9 +195,12 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #ffc048;
+  /*#ffdd59 background-color: #5dca88;*/
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  /*box-shadow: 0 7px #1a7940;*/
+  box-shadow: 0 7px #ffa801;
+  font-weight: bold;
 }
 
 .message:active {
