@@ -42,6 +42,7 @@ a {
 .top-wrapper p {
   opacity: 1.0;
   margin-bottom: 3px;
+  font-size: 20px;
 }
 
 .btn-wrapper {
