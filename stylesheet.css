@@ -67,15 +67,6 @@ a {
   box-shadow: none;
 }
 
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
-}
-
 .btn {
   padding: 12px 24px;
   color: white;
@@ -138,7 +129,7 @@ header {
   float: right;
   font-size: 25px;
   padding: 21px 0;
-  display: none;
+  display: none !important;
 }
 
 
